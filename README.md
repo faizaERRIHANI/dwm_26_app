@@ -22,10 +22,10 @@
 ### 🤖 Android 
 ![Android](screenshots/drawer_android.jpeg)
 
-### 🐧 Linux Desktop
+### 🌐 Chrome Web
 ![Linux](screenshots/drawer_linux.png)
 
-### 🌐 Chrome Web
+### 🐧 Linux Desktop
 ![Web](screenshots/drawer_web.png)
 
 ```
