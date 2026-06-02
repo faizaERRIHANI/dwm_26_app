@@ -28,7 +28,7 @@
 ### 🌐 Chrome Web
 ![Web](screenshots/drawer_web.png)
 
----
+```
 
 ## 📁 Structure du projet
 dwm_26_app/
@@ -49,7 +49,7 @@ dwm_26_app/
 │       └── animated.shape.painter.widget.dart
 └── pubspec.yaml
 
----
+```
 
 ## ✅ Plateformes testées
 
