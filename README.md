@@ -19,7 +19,7 @@
 
 ## 📸 Captures d'écran
 
-### 🤖 Android (Xiaomi Redmi 13C)
+### 🤖 Android 
 ![Android](screenshots/drawer_android.jpeg)
 
 ### 🐧 Linux Desktop
