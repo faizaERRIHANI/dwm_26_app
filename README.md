@@ -57,7 +57,7 @@ dwm_26_app/
 |-----------|--------|--------|
 | 🐧 Linux Desktop | Ubuntu 26.04 | ✅ OK |
 | 🌐 Chrome Web | Google Chrome 148 | ✅ OK |
-| 🤖 Android | Xiaomi Redmi 13C API 34 | ✅ OK |
+| 🤖 Android |  API 34 | ✅ OK |
 
 ---
 
